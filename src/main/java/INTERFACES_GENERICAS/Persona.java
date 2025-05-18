@@ -1,4 +1,4 @@
-package Interfaces_GENÉRICAS_en_Java;
+package INTERFACES_GENERICAS;
 
 public class Persona implements Identificable<Integer>{
     private int DNI;

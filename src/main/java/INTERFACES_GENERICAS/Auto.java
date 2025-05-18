@@ -1,4 +1,4 @@
-package Interfaces_GENÉRICAS_en_Java;
+package INTERFACES_GENERICAS;
 
 public class Auto implements Identificable<String > {
     private String patente;
