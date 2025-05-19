@@ -2,12 +2,15 @@
 
 Este proyecto está dividido en cuatro partes y tiene como objetivo demostrar el uso de conceptos fundamentales en Java como interfaces genéricas, `Comparable`, `Comparator` y búsquedas genéricas. Cada parte se enfoca en una característica específica y muestra su implementación con ejemplos prácticos.
 
-## 📚 Tabla de Contenidos
+---
+
+## 📚 Tabla de Contenidos 
 
 1. [Interfaces Genéricos](#-parte-1-interfaces-genéricos)
-2. [Comparable y Comparator](#-parte-2-comparable-y-comparator) *(próximamente)*
-3. [Buscador Genérico](#-parte-3-buscador-genérico) *(próximamente)*
-4. [Conclusión y aprendizaje](#-parte-4-conclusión-y-aprendizaje) *(próximamente)*
+2. [Comparable](#-parte-2-comparable)
+3. [Comparator](#-parte-3-comparator)
+4. [Buscador Genérico](#-parte-4-buscador-genérico) 
+5. [Conclusión y aprendizaje](#-parte-5-conclusión-y-aprendizaje) 
 
 ---
 
